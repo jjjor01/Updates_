@@ -1,13 +1,13 @@
 {
   "name": "esp01blink",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "builds": [
     {
       "chipFamily": "ESP8266",
       "ota": {
-        "md5": "96ada37a0d3a4e8543483573ba488199",
+        "md5": "92dbabcf5588a792fc29bade9ed5eb9b",
         "path": "https://raw.githubusercontent.com/jjjor01/Updates_/refs/heads/main/firmware.ota.bin",
-        "summary": "Firmware 1.0.5 para esp01blink"
+        "summary": "Firmware 1.0.6 para esp01blink"
       }
     }
   ]
